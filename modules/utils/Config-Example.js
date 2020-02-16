@@ -1,15 +1,15 @@
 const packageJson = require('../../package.json');
 
-const DISCORD_CLIENT_TOKEN = ""; //put your token here
-const BOT_OWNER_ID = ""; //the bot will use this to check if you can use admins commands
+const DISCORD_CLIENT_TOKEN = "NjU3NjkzODY4MjM3NTIwOTM2.XkmkTg.GOH_I-4lp6RxSsKCNXL4mdbFlAo"; //put your token here
+const BOT_OWNER_ID = "273401619826343946"; //the bot will use this to check if you can use admins commands
 const BADGE_MANAGER_ID = ""; // put ids of the persons that will be able to manage badges separated by a comma 
 const SUPPORT_ID = ""; // put ids of the persons that will be able to send dms with the bot separated by a comma 
 const BOT_OWNER_PREFIX = "p"; // the prefix only the bot owner can use
 const PREFIXLENGTH = 1; // please keep this value to 1 otherwise some stuff may have problems
 const PART_OF_SCORE_REMOVED_DURING_RESPAWN = 0.1; //equals to 10 % by default
 const MAIN_SERVER_ID = ""; //id of the discord server where the support will be done
-const CONSOLE_CHANNEL_ID = ""; //id of the channel where the main status messages from the bot will be sent
-const FRENCH_ANNOUNCEMENT_CHANNEL_ID = ""; // id of the channel where important public announcement will be sent in french
+const CONSOLE_CHANNEL_ID = "672012369433722881"; //id of the channel where the main status messages from the bot will be sent
+const FRENCH_ANNOUNCEMENT_CHANNEL_ID = "672012111571845130"; // id of the channel where important public announcement will be sent in french
 const ENGLISH_ANNOUNCEMENT_CHANNEL_ID = ""; // id of the channel where important public announcement will be sent in english
 const SUPPORT_CHANNEL_ID = ""; // id of the channel where important public announcement will be sent in english
 const BLACKLIST = ""; //ids of the persons that will not be able to send dms to the bot separated by a comma
